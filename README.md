@@ -1,4 +1,4 @@
-# text_to_image_deci_deffusion
+# AI Image Generator (text_to_image_deci_deffusion)
 
 # Deci Diffusion Text-to-Image Pipeline
 
