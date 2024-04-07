@@ -28,7 +28,7 @@ DeciDiffusion 1.0 is a groundbreaking text-to-image latent diffusion model intro
 1. Clone the repository:
 
    ```bash
-   [https://github.com/repo/name.git](https://github.com/cizodevahm/AI-Image-Generator)
+   (https://github.com/cizodevahm/AI-Image-Generator)
 
 ### Results from this repo.
 
